@@ -1,0 +1,289 @@
+[
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -x assembler-with-cpp -c -O0 -Wall -fmessage-length=0 -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/GCC/startup_gd32vf103.S.obj -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/GCC/startup_gd32vf103.S",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/GCC/startup_gd32vf103.S"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -x assembler-with-cpp -c -O0 -Wall -fmessage-length=0 -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/GCC/intexc_gd32vf103.S.obj -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/GCC/intexc_gd32vf103.S",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/GCC/intexc_gd32vf103.S"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_adc.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_adc.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_adc.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_bkp.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_bkp.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_bkp.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_can.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_can.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_can.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_crc.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_crc.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_crc.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dac.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dac.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dac.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dbg.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dbg.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dbg.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dma.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dma.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_dma.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_exmc.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_exmc.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_exmc.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_exti.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_exti.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_exti.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_fmc.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_fmc.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_fmc.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_fwdgt.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_fwdgt.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_fwdgt.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_gpio.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_gpio.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_gpio.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_i2c.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_i2c.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_i2c.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_pmu.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_pmu.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_pmu.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_rcu.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_rcu.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_rcu.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_rtc.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_rtc.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_rtc.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_spi.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_spi.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_spi.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_timer.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_timer.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_timer.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_usart.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_usart.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_usart.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_wwdgt.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_wwdgt.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Drivers/gd32vf103_wwdgt.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/gd32vf103_soc.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/gd32vf103_soc.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/gd32vf103_soc.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/system_gd32vf103.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/system_gd32vf103.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/system_gd32vf103.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_getres.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_getres.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_getres.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_gettime.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_gettime.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_gettime.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_settime.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_settime.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/clock_settime.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/close.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/close.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/close.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/execve.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/execve.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/execve.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/exit.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/exit.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/exit.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/fork.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/fork.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/fork.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/fstat.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/fstat.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/fstat.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/getpid.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/getpid.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/getpid.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/gettimeofday.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/gettimeofday.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/gettimeofday.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/isatty.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/isatty.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/isatty.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/kill.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/kill.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/kill.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/link.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/link.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/link.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/lseek.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/lseek.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/lseek.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/open.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/open.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/open.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/read.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/read.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/read.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/sbrk.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/sbrk.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/sbrk.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/stat.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/stat.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/stat.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/times.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/times.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/times.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/unlink.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/unlink.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/unlink.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/wait.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/wait.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/wait.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/write.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/write.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Common/Source/Stubs/write.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Source/gd32vf103c_longan_nano.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Source/gd32vf103c_longan_nano.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Source/gd32vf103c_longan_nano.c"
+},
+
+{
+  "directory": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build",
+  "command": "/opt/riscv-gcc/bin/riscv32-unknown-elf-gcc-10.2.0 -DDOWNLOAD_MODE -isystem ../../nuclei-sdk/SoC/gd32vf103/Common/Include -isystem ../../nuclei-sdk/NMSIS/Core/Include -isystem ../../nuclei-sdk/SoC/gd32vf103/Board/gd32vf103c_longan_nano/Include -isystem ../inc  -O1 -g -fmessage-length=0 --specs=nosys.specs -march=rv32imac -mabi=ilp32 -mcmodel=medlow -g   -std=gnu11 -o CMakeFiles/build.elf.dir/src/main.c.obj   -c /mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/src/main.c",
+  "file": "/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/src/main.c"
+}
+]

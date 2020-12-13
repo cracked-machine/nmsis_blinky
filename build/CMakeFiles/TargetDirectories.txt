@@ -1,0 +1,5 @@
+/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build/CMakeFiles/edit_cache.dir
+/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build/CMakeFiles/rebuild_cache.dir
+/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build/CMakeFiles/build.bin.dir
+/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build/CMakeFiles/build.elf.dir
+/mnt/sdb/tmp/RISC-V/longan/nmsis_blinky/blinky/build/CMakeFiles/size.dir
